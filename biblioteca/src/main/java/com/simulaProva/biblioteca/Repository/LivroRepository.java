@@ -1,5 +1,5 @@
 package com.simulaProva.biblioteca.Repository;
 
-public interface BibliotecaRepository {
+public interface LivroRepository {
     //Repository
 }

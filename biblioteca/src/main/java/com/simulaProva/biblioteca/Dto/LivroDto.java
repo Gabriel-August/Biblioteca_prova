@@ -1,6 +1,6 @@
 package com.simulaProva.biblioteca.Dto;
 
-public class BibliotecaDto {
+public class LivroDto {
 
     //Dto
 }
