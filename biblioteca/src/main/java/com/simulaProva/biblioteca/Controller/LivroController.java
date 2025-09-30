@@ -13,7 +13,7 @@ import java.net.URI;
 import java.util.List;
 
 @RestController
-@RequestMapping("api/livros")
+@RequestMapping("/api/livros")
 public class LivroController {
 
     private final LivroService livroService;
