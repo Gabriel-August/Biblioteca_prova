@@ -1,6 +1,6 @@
 package com.simulaProva.biblioteca.Entity;
 
-public class BibliotecaEntity {
+public class Biblioteca {
 
     //Entity
 }
